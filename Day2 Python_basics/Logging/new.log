@@ -1,0 +1,10 @@
+DEBUG : root : 04-07-23 17:23:55 : Addition of 10 and 7 is 17
+INFO : root : 04-07-23 17:23:55 : User has logged out.. 
+WARNING : root : 04-07-23 17:23:55 : Warning Message....
+ERROR : root : 04-07-23 17:23:55 : "This is Error message.."
+Traceback (most recent call last):
+  File "C:\Users\Ashkar Ali\Freshers-Training\Day2 Python_basics\logging1.py", line 12, in <module>
+    10/0
+    ~~^~
+ZeroDivisionError: division by zero
+CRITICAL : root : 04-07-23 17:23:55 : This is a Critical Message

@@ -7,7 +7,7 @@ dataDict = {}
 with open(csvPath ,'r') as csvHandler:
     reader = csv.DictReader(csvHandler)
     for row in reader:
-        key = row[askey.lower()]
+        key = row[askey]
         dataDict[key] = row
 with open(jsonPath, 'w') as jsonHandler:
     jsonHandler.write(json.dumps(dataDict, indent=4))
