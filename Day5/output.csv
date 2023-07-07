@@ -1,0 +1,101 @@
+rank,id,name
+1,bitcoin,Bitcoin
+2,ethereum,Ethereum
+3,tether,Tether
+4,binance-coin,BNB
+5,usd-coin,USD Coin
+6,xrp,XRP
+7,cardano,Cardano
+8,dogecoin,Dogecoin
+9,solana,Solana
+10,litecoin,Litecoin
+11,tron,TRON
+12,polkadot,Polkadot
+13,polygon,Polygon
+14,bitcoin-cash,Bitcoin Cash
+15,wrapped-bitcoin,Wrapped Bitcoin
+16,multi-collateral-dai,Multi Collateral DAI
+17,avalanche,Avalanche
+18,shiba-inu,Shiba Inu
+19,binance-usd,Binance USD
+20,unus-sed-leo,UNUS SED LEO
+21,chainlink,Chainlink
+22,uniswap,Uniswap
+23,monero,Monero
+24,trueusd,TrueUSD
+25,ethereum-classic,Ethereum Classic
+26,stellar,Stellar
+27,cosmos,Cosmos
+28,filecoin,Filecoin
+29,internet-computer,Internet Computer
+30,lido-dao,Lido DAO
+31,bitcoin-bep2,Bitcoin BEP2
+32,crypto-com-coin,Crypto.com Coin
+33,vechain,VeChain
+34,near-protocol,NEAR Protocol
+35,quant,Quant
+36,the-graph,The Graph
+37,aave,Aave
+38,maker,Maker
+39,stacks,Stacks
+40,algorand,Algorand
+41,bitcoin-sv,Bitcoin SV
+42,elrond-egld,MultiversX
+43,eos,EOS
+44,the-sandbox,The Sandbox
+45,fantom,Fantom
+46,tezos,Tezos
+47,ecash,eCash
+48,theta,THETA
+49,rocket-pool,Rocket Pool
+50,decentraland,Decentraland
+51,render-token,Render Token
+52,axie-infinity,Axie Infinity
+53,hedera-hashgraph,Hedera Hashgraph
+54,curve-dao-token,Curve DAO Token
+55,neo,Neo
+56,flow,Flow
+57,kucoin-token,KuCoin Token
+58,injective-protocol,Injective
+59,kava,Kava
+60,conflux-network,Conflux
+61,chiliz,Chiliz
+62,klaytn,Klaytn
+63,gala,Gala
+64,zcash,Zcash
+65,iota,IOTA
+66,synthetix-network-token,Synthetix
+67,ftx-token,FTX Token
+68,frax-share,Frax Share
+69,compound,Compound
+70,dash,Dash
+71,huobi-token,Huobi Token
+72,mina,Mina
+73,casper,Casper
+74,gatetoken,GateToken
+75,xinfin-network,XinFin Network
+76,fei-protocol,Fei Protocol
+77,wootrade,WOO Network
+78,trust-wallet-token,Trust Wallet Token
+79,nexo,Nexo
+80,thorchain,THORChain
+81,zilliqa,Zilliqa
+82,convex-finance,Convex Finance
+83,pancakeswap,PancakeSwap
+84,loopring,Loopring
+85,qtum,Qtum
+86,gnosis-gno,Gnosis
+87,enjin-coin,Enjin Coin
+88,1inch,1inch Network
+89,singularitynet,SingularityNET
+90,dydx,dYdX
+91,basic-attention-token,Basic Attention Token
+92,mask-network,Mask Network
+93,oasis-network,Oasis Network
+94,celo,Celo
+95,ravencoin,Ravencoin
+96,nem,NEM
+97,decred,Decred
+98,bitcoin-gold,Bitcoin Gold
+99,nxm,NXM
+100,balancer,Balancer
