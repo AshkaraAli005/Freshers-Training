@@ -13,9 +13,6 @@ for i in range(len(pdf)):
     pil_image.save(f"output{i}.jpg".format(i))
 
 
-
-
-
 #convert jpg to pdf
 
 image1 = Image.open(r'output0.jpg')
